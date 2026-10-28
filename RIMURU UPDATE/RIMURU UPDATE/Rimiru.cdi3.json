@@ -1,0 +1,535 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup9",
+			"Name": "---Toggles---"
+		},
+		{
+			"Id": "HEARTSTOGGLE",
+			"GroupId": "ParamGroup9",
+			"Name": "HEARTS TOGGLE"
+		},
+		{
+			"Id": "HAND1TOIGGLE",
+			"GroupId": "ParamGroup9",
+			"Name": "HAND 1 TOGGLE"
+		},
+		{
+			"Id": "HAND2TOIGGLE",
+			"GroupId": "ParamGroup9",
+			"Name": "HAND 2 TOGGLE"
+		},
+		{
+			"Id": "SWEAT",
+			"GroupId": "ParamGroup9",
+			"Name": "SWEAT"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "---Head Original---"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup8",
+			"Name": "---Head Aug---"
+		},
+		{
+			"Id": "ParamAngleX2",
+			"GroupId": "ParamGroup8",
+			"Name": "Angle XX"
+		},
+		{
+			"Id": "ParamAngleY2",
+			"GroupId": "ParamGroup8",
+			"Name": "Angle YY"
+		},
+		{
+			"Id": "ParamAngleZ2",
+			"GroupId": "ParamGroup8",
+			"Name": "Angle ZZ"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "---Eye L---"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLAngle2",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Angle2"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup3",
+			"Name": "---Eye R---"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup3",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup3",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle2",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle2"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup4",
+			"Name": "---Eyeball XY---"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup4",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup4",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup5",
+			"Name": "---Mouth---"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup5",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "Funnel",
+			"GroupId": "ParamGroup5",
+			"Name": "Funnel"
+		},
+		{
+			"Id": "PressLipOpen",
+			"GroupId": "ParamGroup5",
+			"Name": "PressLipOpen"
+		},
+		{
+			"Id": "JawOpen",
+			"GroupId": "ParamGroup5",
+			"Name": "JawOpen"
+		},
+		{
+			"Id": "MouthX",
+			"GroupId": "ParamGroup5",
+			"Name": "MouthX"
+		},
+		{
+			"Id": "Pucker",
+			"GroupId": "ParamGroup5",
+			"Name": "Pucker"
+		},
+		{
+			"Id": "Shrug",
+			"GroupId": "ParamGroup5",
+			"Name": "Shrug"
+		},
+		{
+			"Id": "MouthBounce",
+			"GroupId": "ParamGroup5",
+			"Name": "MouthBounce"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup6",
+			"Name": "---Body Original---"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "Body X"
+		},
+		{
+			"Id": "BodyPosY",
+			"GroupId": "ParamGroup6",
+			"Name": "BodyPosY"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup7",
+			"Name": "---Body Aug---"
+		},
+		{
+			"Id": "ParamBodyAngleX2",
+			"GroupId": "ParamGroup7",
+			"Name": "Body XX"
+		},
+		{
+			"Id": "BodyPosY2",
+			"GroupId": "ParamGroup7",
+			"Name": "BodyPosYY"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "ParamGroup7",
+			"Name": "Body YY"
+		},
+		{
+			"Id": "ParamBodyAngleZ2",
+			"GroupId": "ParamGroup7",
+			"Name": "Body ZZ"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup10",
+			"Name": "---Tail---"
+		},
+		{
+			"Id": "SlowAnim",
+			"GroupId": "ParamGroup10",
+			"Name": "SlowAnim"
+		},
+		{
+			"Id": "FastAnim",
+			"GroupId": "ParamGroup10",
+			"Name": "FastAnim"
+		},
+		{
+			"Id": "TailOnFast",
+			"GroupId": "ParamGroup10",
+			"Name": "TailOnFast"
+		},
+		{
+			"Id": "TailOnSlow",
+			"GroupId": "ParamGroup10",
+			"Name": "TailOnSlow"
+		},
+		{
+			"Id": "FastPhys",
+			"GroupId": "ParamGroup10",
+			"Name": "FastPhys"
+		},
+		{
+			"Id": "SlowPhys",
+			"GroupId": "ParamGroup10",
+			"Name": "SlowPhys"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup11",
+			"Name": "---Tongue---"
+		},
+		{
+			"Id": "TongueReset",
+			"GroupId": "ParamGroup11",
+			"Name": "TongueReset"
+		},
+		{
+			"Id": "Tongue_Glue_BL",
+			"GroupId": "ParamGroup11",
+			"Name": "Tongue_Glue_BL"
+		},
+		{
+			"Id": "TongueOut",
+			"GroupId": "ParamGroup11",
+			"Name": "TongueOut"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup12",
+			"Name": "---Tongue Physics---"
+		},
+		{
+			"Id": "TongueX",
+			"GroupId": "ParamGroup12",
+			"Name": "TongueX"
+		},
+		{
+			"Id": "TongueX2",
+			"GroupId": "ParamGroup12",
+			"Name": "TongueX2"
+		},
+		{
+			"Id": "TongueY",
+			"GroupId": "ParamGroup12",
+			"Name": "TongueY"
+		},
+		{
+			"Id": "TongueY2",
+			"GroupId": "ParamGroup12",
+			"Name": "TongueY2"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup13",
+			"Name": "---Breathing (DO NOT DELETE) VVV---"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup13",
+			"Name": "Breath"
+		},
+		{
+			"Id": "PARAM",
+			"GroupId": "ParamGroup13",
+			"Name": "PARAM"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "---Physics---"
+		},
+		{
+			"Id": "PHYSICSX1",
+			"GroupId": "ParamGroup14",
+			"Name": "PHYSICS X1"
+		},
+		{
+			"Id": "PHYSICSX2",
+			"GroupId": "ParamGroup14",
+			"Name": "PHYSICS X2"
+		},
+		{
+			"Id": "PHYSICSX3",
+			"GroupId": "ParamGroup14",
+			"Name": "PHYSICS X3"
+		},
+		{
+			"Id": "PHYSICSY1",
+			"GroupId": "ParamGroup15",
+			"Name": "PHYSICS Y1"
+		},
+		{
+			"Id": "PHYSICSY2",
+			"GroupId": "ParamGroup15",
+			"Name": "PHYSICS Y2"
+		},
+		{
+			"Id": "PHYSICSY3",
+			"GroupId": "ParamGroup15",
+			"Name": "PHYSICS Y3"
+		},
+		{
+			"Id": "HeartAnimation1",
+			"GroupId": "ParamGroup16",
+			"Name": "Heart Animation1"
+		},
+		{
+			"Id": "HeartAnimation2",
+			"GroupId": "ParamGroup16",
+			"Name": "Heart Animation2"
+		},
+		{
+			"Id": "SWEAT1",
+			"GroupId": "ParamGroup17",
+			"Name": "SWEAT1"
+		},
+		{
+			"Id": "SWEAT2",
+			"GroupId": "ParamGroup17",
+			"Name": "SWEAT2"
+		},
+		{
+			"Id": "SWEAT3",
+			"GroupId": "ParamGroup17",
+			"Name": "SWEAT3"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Toggle"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Head"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Head XYZ"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "EyeL"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "EyeR"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Eyeball"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Body XYYZ"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "TailAUG"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "Tongue Function"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "Tongue Physics"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "Breathing"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "SLIME PHYS X"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "SLIME PHYSICS Y"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "HEARTS ANIMATION"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "SWEAT ANIMATION"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "Hearts toggle"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Hand Toggle 2"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Hand Toggle"
+		},
+		{
+			"Id": "Eyes",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Sweat toggle"
+		},
+		{
+			"Id": "Body",
+			"Name": "Body"
+		},
+		{
+			"Id": "Part5",
+			"Name": "3"
+		},
+		{
+			"Id": "Part6",
+			"Name": "2"
+		},
+		{
+			"Id": "Part7",
+			"Name": "1"
+		}
+	]
+}

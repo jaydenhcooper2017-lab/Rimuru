@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Rimiru.moc3",
+		"Textures": [
+			"Rimiru.4096/texture_00.png"
+		],
+		"Physics": "Rimiru.physics3.json",
+		"DisplayInfo": "Rimiru.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
